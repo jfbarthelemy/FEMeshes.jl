@@ -1,5 +1,8 @@
 module FEMeshes
 
-# Write your package code here.
+using Gmsh
+import .gmsh
+
+include("gmsh_meshes.jl")
 
 end

@@ -3,6 +3,9 @@ uuid = "31a97c39-4297-4167-a13b-672cd448a149"
 authors = ["Jean-François Barthélémy"]
 version = "1.0.0-DEV"
 
+[deps]
+Gmsh = "705231aa-382f-11e9-3f0c-b7cb4346fdeb"
+
 [compat]
 julia = "1.9"
 
